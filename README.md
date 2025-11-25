@@ -1,1 +1,1 @@
-# DAtaProject
+# DataProject
