@@ -1,0 +1,31 @@
+product_id,product_name,category,quantity,unit_price,reorder_level,supplier,warehouse_location,last_updated
+P001,Laptop Computer,Electronics,45,899.99,10,TechSupply Inc,A-01-15,2025-12-15
+P002,Office Chair,Furniture,120,149.99,20,ComfortSeats Ltd,B-02-08,2024-01-14
+P003,Wireless Mouse,Electronics,250,24.99,50,TechSupply Inc,A-01-16,2024-01-16
+P004,Desk Lamp,Furniture,80,34.99,15,BrightLights Co,B-02-09,2024-01-15
+P005,USB Cable,Electronics,500,5.99,100,TechSupply Inc,A-01-17,2024-01-16
+P006,Monitor 24inch,Electronics,35,299.99,10,DisplayPro Ltd,A-01-18,2024-01-14
+P007,Notebook,Stationery,400,3.99,100,PaperWorld Inc,C-03-05,2024-01-15
+P008,Pen Set,Stationery,600,12.99,150,PaperWorld Inc,C-03-06,2024-01-16
+P009,Filing Cabinet,Furniture,25,199.99,5,ComfortSeats Ltd,B-02-10,2024-01-13
+P010,Printer,Electronics,18,449.99,8,TechSupply Inc,A-01-19,2025-12-15
+P011,Keyboard,Electronics,90,49.99,20,TechSupply Inc,A-01-20,2024-01-16
+P012,Desk Organizer,Stationery,150,19.99,30,PaperWorld Inc,C-03-07,2024-01-14
+P013,Whiteboard,Furniture,40,89.99,10,ComfortSeats Ltd,B-02-11,2024-01-15
+P014,Headphones,Electronics,75,79.99,15,TechSupply Inc,A-01-21,2024-01-16
+P015,Calculator,Electronics,200,15.99,40,TechSupply Inc,A-01-22,2024-01-15
+P016,Stapler,Stationery,300,8.99,60,PaperWorld Inc,C-03-08,2024-01-14
+P017,Paper Shredder,Electronics,12,159.99,5,TechSupply Inc,A-01-23,2025-12-15
+P018,Conference Table,Furniture,8,599.99,3,ComfortSeats Ltd,B-02-12,2024-01-12
+P019,Projector,Electronics,15,799.99,5,DisplayPro Ltd,A-01-24,2024-01-15
+P020,Storage Box,Stationery,250,6.99,50,PaperWorld Inc,C-03-09,2024-01-16
+P021,Desk,Furniture,30,349.99,8,ComfortSeats Ltd,B-02-13,2024-01-14
+P022,Webcam,Electronics,55,69.99,12,TechSupply Inc,A-01-25,2024-01-15
+P023,Folder,Stationery,800,1.99,200,PaperWorld Inc,C-03-10,2024-01-16
+P024,Bookshelf,Furniture,20,249.99,5,ComfortSeats Ltd,B-02-14,2024-01-13
+P025,Extension Cord,Electronics,180,14.99,35,TechSupply Inc,A-01-26,2024-01-15
+P026,Scissors,Stationery,350,4.99,70,PaperWorld Inc,C-03-11,2024-01-14
+P027,Tablet,Electronics,28,399.99,8,TechSupply Inc,A-01-27,2024-01-16
+P028,Label Maker,Electronics,40,89.99,10,TechSupply Inc,A-01-28,2024-01-15
+P029,Bulletin Board,Furniture,45,29.99,10,ComfortSeats Ltd,B-02-15,2024-01-14
+P030,Eraser,Stationery,500,0.99,150,PaperWorld Inc,C-03-12,2024-01-16
