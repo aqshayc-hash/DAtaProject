@@ -151,6 +151,7 @@ DAtaProject/
 ├── inventory_manager.py            # Core inventory management class
 ├── analytics.py                    # Analytics and reporting module
 ├── cli.py                          # Command-line interface
+├── demo.py                         # Demonstration script
 ├── README.md                       # This file
 └── requirements.txt                # Python dependencies (empty - no external deps)
 ```

@@ -6,6 +6,7 @@ Provides advanced analytics and reporting capabilities
 import json
 import csv
 from collections import defaultdict
+from datetime import datetime
 from typing import Dict, List
 
 
@@ -221,7 +222,7 @@ class InventoryAnalytics:
         try:
             low_stock = self.manager.get_low_stock_items()
             report = {
-                'generated_at': __import__('datetime').datetime.now().isoformat(),
+                'generated_at': datetime.now().isoformat(),
                 'total_low_stock_items': len(low_stock),
                 'items': low_stock
             }
@@ -243,7 +244,7 @@ class InventoryAnalytics:
         try:
             summary = self.manager.get_category_summary()
             report = {
-                'generated_at': __import__('datetime').datetime.now().isoformat(),
+                'generated_at': datetime.now().isoformat(),
                 'total_categories': len(summary),
                 'categories': summary
             }
